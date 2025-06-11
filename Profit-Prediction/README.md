@@ -10,7 +10,3 @@ This project implements linear regression to predict business profits based on c
 - Created prediction function for new population inputs
 - Plotted training data with regression line
 
-## Example Usage
-
-```python
-python main2.py
