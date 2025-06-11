@@ -8,8 +8,3 @@ This project implements linear regression to predict house prices based on their
 - Feature scaling using z-score normalization
 - Visualized cost function convergence
 - Created prediction function for new inputs
-
-## Example Usage
-
-```python
-python main.py
