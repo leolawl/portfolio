@@ -1,18 +1,10 @@
-# Портфолио: Проекти во Машинско Учење
+# House Price Prediction
 
-## 1. Предвидување на Цени на Недвижнини
-**Цел**: Предвидување цени на куќи (во $1000-ти) врз основа на квадратура.
+This project implements linear regression to predict house prices based on their size in square feet.
 
-**Технологии**:
-- Линеарна регресија од нула (NumPy)
-- Gradient descent оптимизација (α=0.1, 100 итерации)
-- Z-score нормализација на податоци
+## Implementation Details
 
-**Клучни функции**:
-```python
-# Главен алгоритму
-theta -= (alpha/m) * X.T @ (X @ theta - y)
-
-# Предвидување
-def predict_price(size):
-    return [1, (size - mean_X)/std_X] @ theta
+- Implemented gradient descent algorithm from scratch
+- Feature scaling using z-score normalization
+- Visualized cost function convergence
+- Created prediction function for new inputs
