@@ -1,10 +1,10 @@
 # House Price Prediction
 
-This project implements linear regression to predict house prices based on their size in square feet.
+Овој проект имплементира линеарна регресија за предвидување на цените на куќи врз основа на нивната големина во квадратни стапки.
 
 ## Implementation Details
 
-- Implemented gradient descent algorithm from scratch
-- Feature scaling using z-score normalization
-- Visualized cost function convergence
-- Created prediction function for new inputs
+- Имплементиран gradient descent алгоритам од нула
+- Скалирање на карактеристики со Z-score нормализација
+- Визуелизација на конвергенција на трошочната функција
+- Креирана функција за предвидување за нови влезови
