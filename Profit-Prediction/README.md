@@ -1,12 +1,12 @@
 # Profit Prediction
 
-This project implements linear regression to predict business profits based on city population size.
+Овој проект имплементира линеарна регресија за предвидување на бизнис профит врз основа на големината на популацијата во градовите.
 
 ## Implementation Details
 
-- Implemented gradient descent algorithm from scratch
-- Feature normalization using mean scaling
-- Visualized cost function convergence
-- Created prediction function for new population inputs
-- Plotted training data with regression line
+- Имплементиран gradient descent алгоритам од нула  
+- Нормализација на карактеристики со скалирање по просек  
+- Визуелизација на конвергенција на трошочната функција  
+- Креирана функција за предвидување за нови влезови  
+- Визуелизација на тренирачки податоци со регресиона линија  
 
