@@ -1,10 +1,19 @@
 # Machine Learning Portfolio
 
-Welcome to my machine learning portfolio! This repository contains projects demonstrating my skills in implementing linear regression models from scratch using NumPy.
+Оваа колекција ги презентира практичните проекти што ги развив во областа на Machine Learning, со фокус на имплементација на модели за линеарна регресија од нула со употреба на NumPy.
 
 # Projects
 
-1. [House Price Prediction](./House-Price-Prediction/) - Predicts house prices based on square footage
-2. [Profit Prediction](./Profit-Prediction/) - Predicts business profits based on city population
+1. [House Price Prediction](./House-Price-Prediction/)  
+   Систем за предвидување на цени на домови врз основа на квадратура, со:  
+   • Имплементација на gradient descent  
+   • Стандардизација на податоци  
+   • Визуелизација на регресиони модели
+
+2. [Profit Prediction](./Profit-Prediction/)  
+   Модел за проценка на бизнис профит според популацијата на градовите:  
+   • Оптимизација на трошок (cost function)  
+   • Анализа на конвергенција  
+   • Функција за предвидување
 
 
